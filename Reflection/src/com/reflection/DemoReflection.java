@@ -10,7 +10,7 @@ public class DemoReflection {
 	    
 	    Class myObjectClassForName = Class.forName("com.reflection.MyObject");
 	    
-	    System.out.println(myObjectClassForName);
+	    System.out.println("First commit"+myObjectClassForName);
 
 	}
 
