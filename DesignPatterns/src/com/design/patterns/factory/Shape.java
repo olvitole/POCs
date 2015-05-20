@@ -1,4 +1,4 @@
-package com.design.patterns.factory.shapes;
+package com.design.patterns.factory;
 
 public interface Shape {
 	void draw();
