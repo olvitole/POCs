@@ -21,8 +21,6 @@ public class LOSParent {
 		return "LOSParent [abo=" + id + ", name=" + name + "]";
 	}
 
-	public String toString2() {
-		return "LOSParent [id=" + id + ", name=" + name + "]";
-	}
+
 	
 }
